@@ -1,0 +1,6 @@
+{
+  "name": "Çarpma Alıştırması",
+  "description": "Sebahattin Soylu tarzı hızlı çarpma çalışması, süre ve sayı seçimi, kombo çarpanları ve bot ile kapışma modu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
